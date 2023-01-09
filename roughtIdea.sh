@@ -34,3 +34,16 @@ cat /proc/sys/vm/swappiness
 Like it should ask users what distros they are using, hmm.
 
 # Good mini - assignment kind of project it is.
+# It's always a good idea to update linux before installing anything on it.
+# Installing java on manjaro
+# cd into home if you wish git clone here.
+# First make sure the base-devel package is installed.
+sudo pacman -S base-devel
+sudo git clone https://aur.archlinux.org/jdk.git
+cd jdk
+makepkg -si
+# if done then check using commands, like ---
+java --version
+javac --version
+which java
+which javac
