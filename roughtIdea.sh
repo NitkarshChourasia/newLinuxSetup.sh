@@ -47,3 +47,4 @@ java --version
 javac --version
 which java
 which javac
+# Also see something in Add/Remove default program manager in Manjaro's features.
