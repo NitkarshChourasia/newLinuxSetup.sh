@@ -48,3 +48,5 @@ javac --version
 which java
 which javac
 # Also see something in Add/Remove default program manager in Manjaro's features.
+# To install an antivirus, for free. Open Source.
+# https://wiki.manjaro.org/index.php/ClamAV
